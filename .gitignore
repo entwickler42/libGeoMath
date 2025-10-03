@@ -1,0 +1,6 @@
+# Build outputs
+*.lib
+*.res
+*.obj
+*.tds
+*.dcu
